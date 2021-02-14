@@ -12,7 +12,7 @@ Pages Web
   </a>
 
 
-<H2>Spiderman Page </H2>
+<H2 align='center'>Spiderman Page </H2>
 <div>
   <img src="https://i.ibb.co/H2YM7tq/Spiderman.png" alt="demo-web" height="425">
 </div>
@@ -21,9 +21,9 @@ Pages Web
 </a>
 <br>
 
-<H2>ClubHouse Layout</H2>
-<div>
-  <img src="https://i.ibb.co/stkJjsn/clubhouse.png" alt="demo-web" height="425">
+<H2 align='center'>ClubHouse Layout</H2>
+<div align='center'>
+  <img align='center' src="https://i.ibb.co/stkJjsn/clubhouse.png" alt="demo-web" height="425">
 </div>
 
 <hr />
