@@ -16,12 +16,15 @@ Pages Web
 <div>
   <img src="https://i.ibb.co/H2YM7tq/Spiderman.png" alt="demo-web" height="425">
 </div>
+<a href='https://pages-web.vercel.app/'>
+    <h3>LINK DA PÁGINA</h3>
+</a>
 <br>
 
 <H2>ClubHouse Layout</H2>
-<center><div>
+<div>
   <img src="https://i.ibb.co/stkJjsn/clubhouse.png" alt="demo-web" height="425">
-</div></center>
+</div>
 
 <hr />
 
