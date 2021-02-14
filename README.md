@@ -19,9 +19,9 @@ Pages Web
 <br>
 
 <H2>ClubHouse Layout</H2>
-<div>
-  <center><img src="https://i.ibb.co/stkJjsn/clubhouse.png" alt="demo-web" height="425"></center>
-</div>
+<center><div>
+  <img src="https://i.ibb.co/stkJjsn/clubhouse.png" alt="demo-web" height="425">
+</div></center>
 
 <hr />
 
