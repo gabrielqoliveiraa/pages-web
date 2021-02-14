@@ -32,24 +32,9 @@ Pages Web
 
 ## Features
 
-- ⚛️ **React Js** — É uma biblioteca em JavaScript para criação de interfaces
-- 💹 **Next Js** — Um framework de React para produção
+- ⚛️ **HTML** 
+- 💹 **SCSS** 
 
-## Others
-
- - 💅 **Styled-Components** - Visuais para componentes 
- - 💻 **Conceitos de backend** - Manipulação de arquivos de JSON e requests de EndPoint
-
-## Conceitos de BackEnd 
- ### Esse conceito de BackEnd e implementação com API'S está sendo estudado e refinado em outro projeto. [Ler mais]
-
- [Ler mais]: https://github.com/gabrielqoliveiraa
-
-## Getting started
-
-📩  - Utilizando o Next Js, é possível dar deploy diretamente por meio do site da Vercel. A qual é responsável pelo framework. <br>
-📫	- Acesse https://hpquiz.gabrielqoliveiraa.vercel.app/  <br>
-📤  - Teste a aplicação
 
 ## License
 
