@@ -28,12 +28,20 @@ Pages Web
   <img align='center' src="https://i.ibb.co/stkJjsn/clubhouse.png" alt="demo-web" height="425">
 </div>
 
+<H2 align='center'>Finance App Layout</H2>
+<div align='center'>
+  <img align='center' src="https://i.ibb.co/GTTypjM/Screenshot-6.png" alt="demo-web" height="425">
+</div>
+
+
 <hr />
 
 ## Features
 
 - ⚛️ **HTML** 
-- 💹 **SCSS** 
+- 💹 **SCSS**
+- 💹 **CSS** 
+
 
 
 ## License
