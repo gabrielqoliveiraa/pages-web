@@ -1,0 +1,241 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width:100vw;
+    height: 100vh;
+    display: flex;  
+    flex-direction: column;
+    background-color: #E9E9E9;
+}
+
+
+.header{
+    display: flex;
+    width: 100vw;
+    height: 88px;
+    justify-content: space-between;
+    padding: 16px;
+    margin-bottom: 25px;
+
+}
+
+.vocativo{
+    font-size: 18px;
+    align-self: center;
+    margin-left: 15px;
+}
+    
+
+.item-1{
+    display: flex;
+}
+
+.avatar {
+    max-width: 45px;
+    max-height: 45px;
+    border-radius: 25%;
+}
+
+.notificacion {
+    max-width: 24px;
+    max-height: 24px;
+}
+
+.total-balance {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.totalValue{
+    color: #2F4D70    ;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.totalValue-text {
+    color: #666666;
+    font-size: 14px;
+    text-shadow: rgba(0, 0, 0, 0.548) 0.1em 0.3em 0.3em;
+    
+}
+
+.gastos{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 35px;
+}
+
+.income{
+    border-radius: 10%;
+    background-color: #67D4CA;
+    width: 155px;
+    height: 75px;
+    margin-right: 10px;
+    color: white;
+    padding: 10px;
+    box-shadow: #3a9289c0 0px 0.3em 0.5em 0px;
+
+}
+
+.income div {
+    text-shadow: rgba(0, 0, 0, 0.548) 0.1em 0.25em 0.3em;
+
+}
+
+
+.arrow {
+    margin-left: 15px;
+}
+
+    
+
+
+
+
+.expense{
+    border-radius: 10%;
+    background-color: #F28080;
+    width: 155px;
+    height: 75px;
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+    box-shadow: #a84b4bb6 0px 0.3em 0.5em 0px;
+
+}
+
+.expense div {
+    text-shadow: rgba(0, 0, 0, 0.548) 0.1em 0.25em 0.3em;
+}
+
+#recent-Transations{
+    padding: 16px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #2F4D70;
+}
+
+#day{
+    padding: 16px;
+    padding-top: 0;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.description {
+    position: relative;
+    border-radius: 10px;
+    margin: 15px;
+    margin-bottom: 0px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    box-shadow: #0a122625 0px 10px 15px;
+}
+
+
+
+.buy-item1 {
+    display: flex;
+    align-items: center;
+    
+}
+
+.iconBuy {
+    width: 45px;
+    height: 45px;
+    display: block;
+    align-items: center;
+}
+
+
+
+    
+.tituloItem {
+    margin-left: 15px;
+    display:flex;
+    flex-direction: column;
+}
+
+.titulo{
+    color: #2F4D70;
+    font-weight: bold;
+    
+}
+
+.descriptionItem {
+    color:#00000040;
+    font-size: 14px;
+}
+
+
+
+
+
+.buy-item2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.price{
+    color: #FD5252;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.afterProduct {
+    margin-top: 16px;
+}
+
+.Enter{
+    color: #00E79A;
+}
+
+.pay {
+    margin:0;
+    padding: 0;
+}
+    
+
+main{
+    position: relative;
+    padding-bottom: 150px;
+}
+
+    
+    
+
+.footer {
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    align-items: center;
+    bottom: 0;
+    background: center url(/img/bg.png);
+    display: flex;
+    justify-content: space-around;
+}
+
+.plus {
+    margin-bottom: 70px;
+    
+}
+
+@media (min-width: 660px) {
+    .footer {background-color: white;}
+}
+
+
+
+
